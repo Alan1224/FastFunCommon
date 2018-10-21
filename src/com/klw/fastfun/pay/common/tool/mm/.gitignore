@@ -1,0 +1,17 @@
+/Address_Info_Schema.class
+/AppOrderQueryReq.class
+/AppOrderQueryResp.class
+/MarketOrder.class
+/Order_Charge_Schema.class
+/PartnerInfo.class
+/SyncAppOrderReq.class
+/SyncAppOrderResp.class
+/SyncOrderAddressInfoSchema.class
+/SyncOrderRelationReq.class
+/SyncOrderRelationResp.class
+/SyncOrderUserIdSchema.class
+/SyncXMLUtils.class
+/Trusted2ServQueryReq.class
+/Trusted2ServQueryResp.class
+/XMLUtils.class
+/XStreamFactory.class
